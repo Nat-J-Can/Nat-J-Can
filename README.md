@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my little corner on GitHub! I'm Nat, and I'm on a journey to build an awesome portfolio while soaking up knowledge like a sponge. Currently honing my skills over at [freecode.org](https://freecode.org) - freecode.org/nat-j-can
+Welcome to my little corner on GitHub! I'm Nat, and I'm on a journey to build an awesome portfolio while soaking up knowledge like a sponge. Currently honing my skills over at [freecode.org](https://freecodecamp.org) - freecodecamp.org/nat-j-can
 
 ## 🔭 What I'm up to
 
